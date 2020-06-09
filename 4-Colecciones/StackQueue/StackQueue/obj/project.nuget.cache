@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cvcj4HGvLze6ZqTrRwjMIDxrpBnrnhwVsCExlpm7EZMOWFI8Vbd8Kw0fnTbrIhAIy20bclQQOaGtxbJLQkautg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\Seccion4\\StackQueue\\StackQueue\\StackQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

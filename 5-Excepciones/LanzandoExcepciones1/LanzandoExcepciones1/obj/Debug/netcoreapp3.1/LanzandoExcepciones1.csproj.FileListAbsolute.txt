@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\bin\Debug\netcoreapp3.1\LanzandoExcepciones1.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\bin\Debug\netcoreapp3.1\LanzandoExcepciones1.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\bin\Debug\netcoreapp3.1\LanzandoExcepciones1.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\bin\Debug\netcoreapp3.1\LanzandoExcepciones1.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\bin\Debug\netcoreapp3.1\LanzandoExcepciones1.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\bin\Debug\netcoreapp3.1\LanzandoExcepciones1.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\obj\Debug\netcoreapp3.1\LanzandoExcepciones1.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\obj\Debug\netcoreapp3.1\LanzandoExcepciones1.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\obj\Debug\netcoreapp3.1\LanzandoExcepciones1.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\obj\Debug\netcoreapp3.1\LanzandoExcepciones1.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\obj\Debug\netcoreapp3.1\LanzandoExcepciones1.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzandoExcepciones1\LanzandoExcepciones1\obj\Debug\netcoreapp3.1\LanzandoExcepciones1.genruntimeconfig.cache

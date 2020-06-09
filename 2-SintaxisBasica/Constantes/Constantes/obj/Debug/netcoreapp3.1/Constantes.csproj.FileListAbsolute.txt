@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\bin\Debug\netcoreapp3.1\Constantes.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\Constantes\Constantes\obj\Debug\netcoreapp3.1\Constantes.genruntimeconfig.cache

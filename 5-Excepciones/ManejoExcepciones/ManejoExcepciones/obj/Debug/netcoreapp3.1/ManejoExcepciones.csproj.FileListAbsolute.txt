@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\bin\Debug\netcoreapp3.1\ManejoExcepciones.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\bin\Debug\netcoreapp3.1\ManejoExcepciones.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\bin\Debug\netcoreapp3.1\ManejoExcepciones.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\bin\Debug\netcoreapp3.1\ManejoExcepciones.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\bin\Debug\netcoreapp3.1\ManejoExcepciones.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\bin\Debug\netcoreapp3.1\ManejoExcepciones.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\obj\Debug\netcoreapp3.1\ManejoExcepciones.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\obj\Debug\netcoreapp3.1\ManejoExcepciones.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\obj\Debug\netcoreapp3.1\ManejoExcepciones.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\obj\Debug\netcoreapp3.1\ManejoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\obj\Debug\netcoreapp3.1\ManejoExcepciones.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\obj\Debug\netcoreapp3.1\ManejoExcepciones.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\ManejoExcepciones\ManejoExcepciones\obj\Debug\netcoreapp3.1\ManejoExcepciones.genruntimeconfig.cache

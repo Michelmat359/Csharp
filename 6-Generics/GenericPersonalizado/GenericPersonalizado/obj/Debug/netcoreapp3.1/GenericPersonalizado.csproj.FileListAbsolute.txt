@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\bin\Debug\netcoreapp3.1\GenericPersonalizado.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\bin\Debug\netcoreapp3.1\GenericPersonalizado.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\bin\Debug\netcoreapp3.1\GenericPersonalizado.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\bin\Debug\netcoreapp3.1\GenericPersonalizado.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\bin\Debug\netcoreapp3.1\GenericPersonalizado.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\bin\Debug\netcoreapp3.1\GenericPersonalizado.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\obj\Debug\netcoreapp3.1\GenericPersonalizado.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\obj\Debug\netcoreapp3.1\GenericPersonalizado.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\obj\Debug\netcoreapp3.1\GenericPersonalizado.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\obj\Debug\netcoreapp3.1\GenericPersonalizado.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\obj\Debug\netcoreapp3.1\GenericPersonalizado.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\GenericPersonalizado\GenericPersonalizado\obj\Debug\netcoreapp3.1\GenericPersonalizado.genruntimeconfig.cache

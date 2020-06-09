@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vsp17x3cU4zY5uv++jcqpTMB9TV5XfRIwsChXREQvksXw0le1wkLibnuW4o76m1ptyUJaLx7wdu/NyAMo9Whg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\5-Excepciones\\ManejoExcepciones\\ManejoExcepciones\\ManejoExcepciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

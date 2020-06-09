@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\bin\Debug\netcoreapp3.1\MiSortedList.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\bin\Debug\netcoreapp3.1\MiSortedList.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\bin\Debug\netcoreapp3.1\MiSortedList.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\bin\Debug\netcoreapp3.1\MiSortedList.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\bin\Debug\netcoreapp3.1\MiSortedList.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\bin\Debug\netcoreapp3.1\MiSortedList.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\obj\Debug\netcoreapp3.1\MiSortedList.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\obj\Debug\netcoreapp3.1\MiSortedList.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\obj\Debug\netcoreapp3.1\MiSortedList.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\obj\Debug\netcoreapp3.1\MiSortedList.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\obj\Debug\netcoreapp3.1\MiSortedList.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion4\MiSortedList\MiSortedList\obj\Debug\netcoreapp3.1\MiSortedList.genruntimeconfig.cache

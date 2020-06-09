@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxmUk8MryYL3vFqVnXM6Uo4J9T4VRGBDpLuJyAEu4CZSpfB9DqoK39mZB3PmntS1reQjW6MXz0Zkqt6g5pjRuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\7-SintaxisAvanzada\\Delegados\\Delegados\\Delegados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

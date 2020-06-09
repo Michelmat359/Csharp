@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\bin\Debug\netcoreapp3.1\ListaGenerica.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\bin\Debug\netcoreapp3.1\ListaGenerica.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\bin\Debug\netcoreapp3.1\ListaGenerica.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\bin\Debug\netcoreapp3.1\ListaGenerica.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\bin\Debug\netcoreapp3.1\ListaGenerica.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\bin\Debug\netcoreapp3.1\ListaGenerica.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\obj\Debug\netcoreapp3.1\ListaGenerica.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\obj\Debug\netcoreapp3.1\ListaGenerica.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\obj\Debug\netcoreapp3.1\ListaGenerica.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\obj\Debug\netcoreapp3.1\ListaGenerica.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\obj\Debug\netcoreapp3.1\ListaGenerica.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\obj\Debug\netcoreapp3.1\ListaGenerica.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\ListaGenerica\ListaGenerica\obj\Debug\netcoreapp3.1\ListaGenerica.genruntimeconfig.cache

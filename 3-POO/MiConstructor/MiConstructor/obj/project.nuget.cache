@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4eeViBLa3YSN6JtMILzO9c+sVIr3CgP6tB5rXjrxRjGw8Z2Ln3ZHRexZqnl54hsBPEeJBGHbdcGG6WJXnUfSTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\Seccion3\\MiConstructor\\MiConstructor\\MiConstructor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQxc78YoSRKDb4lnmUJrgFxmpHueF+pqYW6OrTM+sgL4diBMjJxM6IsNg2JL5r5x0xJZLglRG6loObJbfrr39w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\Practica2\\EstructuraCondicionalIfElse\\EstructuraCondicionalIfElse\\EstructuraCondicionalIfElse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

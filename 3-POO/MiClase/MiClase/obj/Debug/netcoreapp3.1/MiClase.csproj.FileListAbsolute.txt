@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\bin\Debug\netcoreapp3.1\MiClase.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\bin\Debug\netcoreapp3.1\MiClase.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\bin\Debug\netcoreapp3.1\MiClase.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\bin\Debug\netcoreapp3.1\MiClase.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\bin\Debug\netcoreapp3.1\MiClase.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\bin\Debug\netcoreapp3.1\MiClase.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\obj\Debug\netcoreapp3.1\MiClase.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\obj\Debug\netcoreapp3.1\MiClase.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\obj\Debug\netcoreapp3.1\MiClase.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\obj\Debug\netcoreapp3.1\MiClase.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\obj\Debug\netcoreapp3.1\MiClase.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\obj\Debug\netcoreapp3.1\MiClase.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiClase\MiClase\obj\Debug\netcoreapp3.1\MiClase.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y21rjtnE7ScRR57/z9EuzuqZP425JEA5DNnpGWntgWWgG47OwrkW1XFtYZvIZ7HogfdrzffET4hQY9aiMAKE6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\Practica2\\breackWihile\\breackWihile\\breackWihile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

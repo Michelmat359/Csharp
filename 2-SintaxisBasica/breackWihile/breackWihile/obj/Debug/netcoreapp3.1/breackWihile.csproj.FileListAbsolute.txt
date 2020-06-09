@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\bin\Debug\netcoreapp3.1\breackWihile.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\bin\Debug\netcoreapp3.1\breackWihile.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\bin\Debug\netcoreapp3.1\breackWihile.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\bin\Debug\netcoreapp3.1\breackWihile.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\bin\Debug\netcoreapp3.1\breackWihile.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\bin\Debug\netcoreapp3.1\breackWihile.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\obj\Debug\netcoreapp3.1\breackWihile.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\obj\Debug\netcoreapp3.1\breackWihile.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\obj\Debug\netcoreapp3.1\breackWihile.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\obj\Debug\netcoreapp3.1\breackWihile.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\obj\Debug\netcoreapp3.1\breackWihile.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\breackWihile\breackWihile\obj\Debug\netcoreapp3.1\breackWihile.genruntimeconfig.cache

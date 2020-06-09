@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\bin\Debug\netcoreapp3.1\EjemploLista.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\bin\Debug\netcoreapp3.1\EjemploLista.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\bin\Debug\netcoreapp3.1\EjemploLista.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\bin\Debug\netcoreapp3.1\EjemploLista.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\bin\Debug\netcoreapp3.1\EjemploLista.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\bin\Debug\netcoreapp3.1\EjemploLista.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\obj\Debug\netcoreapp3.1\EjemploLista.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\obj\Debug\netcoreapp3.1\EjemploLista.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\obj\Debug\netcoreapp3.1\EjemploLista.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\obj\Debug\netcoreapp3.1\EjemploLista.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\obj\Debug\netcoreapp3.1\EjemploLista.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\obj\Debug\netcoreapp3.1\EjemploLista.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\EjemploLista\EjemploLista\obj\Debug\netcoreapp3.1\EjemploLista.genruntimeconfig.cache

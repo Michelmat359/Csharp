@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DKLs+mxRJGa0nZ9DnXcZTZPJepZoNPuGgwWok3ic19WktYRJEq9nBKw1IhCYi06LULBhr94y31CiAu12adKCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\Seccion4\\MiSortedList\\MiSortedList\\MiSortedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

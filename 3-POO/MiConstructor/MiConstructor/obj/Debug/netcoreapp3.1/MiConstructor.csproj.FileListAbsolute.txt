@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\obj\Debug\netcoreapp3.1\MiConstructor.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\obj\Debug\netcoreapp3.1\MiConstructor.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\obj\Debug\netcoreapp3.1\MiConstructor.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\bin\Debug\netcoreapp3.1\MiConstructor.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\bin\Debug\netcoreapp3.1\MiConstructor.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\bin\Debug\netcoreapp3.1\MiConstructor.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\bin\Debug\netcoreapp3.1\MiConstructor.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\bin\Debug\netcoreapp3.1\MiConstructor.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\bin\Debug\netcoreapp3.1\MiConstructor.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\obj\Debug\netcoreapp3.1\MiConstructor.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\obj\Debug\netcoreapp3.1\MiConstructor.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Seccion3\MiConstructor\MiConstructor\obj\Debug\netcoreapp3.1\MiConstructor.genruntimeconfig.cache

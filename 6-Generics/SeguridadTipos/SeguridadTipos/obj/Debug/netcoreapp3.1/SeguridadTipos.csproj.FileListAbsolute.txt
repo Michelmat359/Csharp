@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\bin\Debug\netcoreapp3.1\SeguridadTipos.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\bin\Debug\netcoreapp3.1\SeguridadTipos.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\bin\Debug\netcoreapp3.1\SeguridadTipos.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\bin\Debug\netcoreapp3.1\SeguridadTipos.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\bin\Debug\netcoreapp3.1\SeguridadTipos.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\bin\Debug\netcoreapp3.1\SeguridadTipos.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\obj\Debug\netcoreapp3.1\SeguridadTipos.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\obj\Debug\netcoreapp3.1\SeguridadTipos.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\obj\Debug\netcoreapp3.1\SeguridadTipos.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\obj\Debug\netcoreapp3.1\SeguridadTipos.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\obj\Debug\netcoreapp3.1\SeguridadTipos.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\6-Generics\SeguridadTipos\SeguridadTipos\obj\Debug\netcoreapp3.1\SeguridadTipos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

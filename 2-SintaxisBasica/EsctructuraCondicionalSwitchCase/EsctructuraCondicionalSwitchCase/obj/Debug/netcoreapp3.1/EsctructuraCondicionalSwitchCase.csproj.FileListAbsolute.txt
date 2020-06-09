@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\bin\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\bin\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\bin\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\bin\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\bin\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\bin\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\obj\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\obj\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\obj\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\obj\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\obj\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EsctructuraCondicionalSwitchCase\EsctructuraCondicionalSwitchCase\obj\Debug\netcoreapp3.1\EsctructuraCondicionalSwitchCase.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\bin\Debug\netcoreapp3.1\LanzarExcepciones2.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\bin\Debug\netcoreapp3.1\LanzarExcepciones2.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\bin\Debug\netcoreapp3.1\LanzarExcepciones2.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\bin\Debug\netcoreapp3.1\LanzarExcepciones2.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\bin\Debug\netcoreapp3.1\LanzarExcepciones2.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\bin\Debug\netcoreapp3.1\LanzarExcepciones2.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\obj\Debug\netcoreapp3.1\LanzarExcepciones2.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\obj\Debug\netcoreapp3.1\LanzarExcepciones2.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\obj\Debug\netcoreapp3.1\LanzarExcepciones2.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\obj\Debug\netcoreapp3.1\LanzarExcepciones2.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\obj\Debug\netcoreapp3.1\LanzarExcepciones2.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\5-Excepciones\LanzarExcepciones2\LanzarExcepciones2\obj\Debug\netcoreapp3.1\LanzarExcepciones2.genruntimeconfig.cache

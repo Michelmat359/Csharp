@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\bin\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\bin\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\bin\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\bin\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\bin\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\bin\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\obj\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\obj\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\obj\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\obj\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\obj\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\obj\Debug\netcoreapp3.1\EstructuraCondicionalIfElse.genruntimeconfig.cache

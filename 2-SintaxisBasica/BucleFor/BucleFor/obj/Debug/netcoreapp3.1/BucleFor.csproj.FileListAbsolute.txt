@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\bin\Debug\netcoreapp3.1\BucleFor.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\bin\Debug\netcoreapp3.1\BucleFor.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\bin\Debug\netcoreapp3.1\BucleFor.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\bin\Debug\netcoreapp3.1\BucleFor.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\bin\Debug\netcoreapp3.1\BucleFor.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\bin\Debug\netcoreapp3.1\BucleFor.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\obj\Debug\netcoreapp3.1\BucleFor.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\obj\Debug\netcoreapp3.1\BucleFor.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\obj\Debug\netcoreapp3.1\BucleFor.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\obj\Debug\netcoreapp3.1\BucleFor.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\obj\Debug\netcoreapp3.1\BucleFor.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\BucleFor\BucleFor\obj\Debug\netcoreapp3.1\BucleFor.genruntimeconfig.cache

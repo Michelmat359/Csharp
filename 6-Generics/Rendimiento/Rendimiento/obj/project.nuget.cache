@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tI9zofEAXLeUomTaP7ieE6oCKYEyj8TF5+96ueHtJnzXi7/L0k3nA99ai6pwtipQiidaKTp0ilhuRkY/8CsbLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\6-Generics\\Rendimiento\\Rendimiento\\Rendimiento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

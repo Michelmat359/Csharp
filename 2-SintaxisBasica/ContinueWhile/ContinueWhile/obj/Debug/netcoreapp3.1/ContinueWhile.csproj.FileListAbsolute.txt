@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\bin\Debug\netcoreapp3.1\ContinueWhile.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\bin\Debug\netcoreapp3.1\ContinueWhile.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\bin\Debug\netcoreapp3.1\ContinueWhile.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\bin\Debug\netcoreapp3.1\ContinueWhile.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\bin\Debug\netcoreapp3.1\ContinueWhile.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\bin\Debug\netcoreapp3.1\ContinueWhile.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\obj\Debug\netcoreapp3.1\ContinueWhile.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\obj\Debug\netcoreapp3.1\ContinueWhile.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\obj\Debug\netcoreapp3.1\ContinueWhile.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\obj\Debug\netcoreapp3.1\ContinueWhile.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\obj\Debug\netcoreapp3.1\ContinueWhile.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica2\ContinueWhile\ContinueWhile\obj\Debug\netcoreapp3.1\ContinueWhile.genruntimeconfig.cache

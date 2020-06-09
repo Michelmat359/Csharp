@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\bin\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\bin\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\bin\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\bin\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\bin\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\bin\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\Practica1\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\netcoreapp3.1\MiPrimeraAplicacionConsola.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZLlZE/fifbd27dUed8cw6C03lyE4LumR6ehQ62voA1mZ6+I9WLHJPZQGuMqe7hGRcuyhLxUKEMXcd+jDuKV6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\Practica2\\Strings\\Strings\\Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

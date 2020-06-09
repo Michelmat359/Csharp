@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6oeqeALuXmODBcDaEy+tD7R+jRbJorLnt8k6MpNOT5XpCKD4h/8sb322UdCSbE0VB9v0wOySi1TmLHAR1fVVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\Practica1\\MiPrimeraAplicacionConsola\\MiPrimeraAplicacionConsola\\MiPrimeraAplicacionConsola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

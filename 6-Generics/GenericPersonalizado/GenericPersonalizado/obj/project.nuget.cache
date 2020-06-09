@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ardrzQuvWmom7IWhTL9XKVZppfusq2S66zCXw87wQniiQb3VE0jPEpqlboUumkbZEG0y2te85Gop/L4BN/GvoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\6-Generics\\GenericPersonalizado\\GenericPersonalizado\\GenericPersonalizado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
