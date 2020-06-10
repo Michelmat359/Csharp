@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\bin\Debug\netcoreapp3.1\ConsultasLO.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\bin\Debug\netcoreapp3.1\ConsultasLO.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\bin\Debug\netcoreapp3.1\ConsultasLO.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\bin\Debug\netcoreapp3.1\ConsultasLO.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\bin\Debug\netcoreapp3.1\ConsultasLO.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\bin\Debug\netcoreapp3.1\ConsultasLO.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\obj\Debug\netcoreapp3.1\ConsultasLO.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\obj\Debug\netcoreapp3.1\ConsultasLO.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\obj\Debug\netcoreapp3.1\ConsultasLO.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\obj\Debug\netcoreapp3.1\ConsultasLO.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\obj\Debug\netcoreapp3.1\ConsultasLO.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\obj\Debug\netcoreapp3.1\ConsultasLO.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ConsultasLO\ConsultasLO\obj\Debug\netcoreapp3.1\ConsultasLO.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.genruntimeconfig.cache

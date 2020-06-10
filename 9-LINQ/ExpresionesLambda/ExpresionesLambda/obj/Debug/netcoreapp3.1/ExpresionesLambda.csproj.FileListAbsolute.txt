@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\bin\Debug\netcoreapp3.1\ExpresionesLambda.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\ExpresionesLambda\ExpresionesLambda\obj\Debug\netcoreapp3.1\ExpresionesLambda.genruntimeconfig.cache

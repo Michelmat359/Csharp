@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\bin\Debug\netcoreapp3.1\EStructuras.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\bin\Debug\netcoreapp3.1\EStructuras.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\bin\Debug\netcoreapp3.1\EStructuras.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\bin\Debug\netcoreapp3.1\EStructuras.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\bin\Debug\netcoreapp3.1\EStructuras.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\bin\Debug\netcoreapp3.1\EStructuras.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\obj\Debug\netcoreapp3.1\EStructuras.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\obj\Debug\netcoreapp3.1\EStructuras.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\obj\Debug\netcoreapp3.1\EStructuras.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\obj\Debug\netcoreapp3.1\EStructuras.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\obj\Debug\netcoreapp3.1\EStructuras.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\EStructuras\EStructuras\obj\Debug\netcoreapp3.1\EStructuras.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwZhukYkbJ2ou/MSWHcVn2XcBvo+mDb2vNCl7foPWT93WkXwZ3U3h+aJ1TRjY5Vbb+1MZ6SZgkeQCqWPWIz9JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\7-SintaxisAvanzada\\ClaseAbstracta\\ClaseAbstracta\\ClaseAbstracta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

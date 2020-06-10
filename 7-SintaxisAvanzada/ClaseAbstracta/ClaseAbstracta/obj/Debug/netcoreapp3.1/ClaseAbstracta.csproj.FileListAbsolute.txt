@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\bin\Debug\netcoreapp3.1\ClaseAbstracta.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\7-SintaxisAvanzada\ClaseAbstracta\ClaseAbstracta\obj\Debug\netcoreapp3.1\ClaseAbstracta.genruntimeconfig.cache

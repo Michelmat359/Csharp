@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOsrZElUynwMc0HlD3ohmSJXNiGJr523SQ1sfIjjXAK5HYg9Sdx0lF6pXL1UTrdff+V2p6Pw5F2dSSPv2TQJSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\7-SintaxisAvanzada\\EStructuras\\EStructuras\\EStructuras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

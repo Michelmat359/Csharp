@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmV+QlG3OIvrosqaiLxbjM3VgQ8NzdFuCdD2WMCXTnJRLQjVpaZGlPVNIHs1/LV/XJ3ZfA3+2QSc7I9T3uoe9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.mateo\\Desktop\\Formacion\\CSharp\\7-SintaxisAvanzada\\metodosAnonimos\\metodosAnonimos\\metodosAnonimos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.mateo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

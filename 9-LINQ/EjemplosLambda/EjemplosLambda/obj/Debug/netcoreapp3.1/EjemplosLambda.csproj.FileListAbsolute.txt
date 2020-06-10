@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\obj\Debug\netcoreapp3.1\EjemplosLambda.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\obj\Debug\netcoreapp3.1\EjemplosLambda.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\obj\Debug\netcoreapp3.1\EjemplosLambda.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\bin\Debug\netcoreapp3.1\EjemplosLambda.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\bin\Debug\netcoreapp3.1\EjemplosLambda.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\bin\Debug\netcoreapp3.1\EjemplosLambda.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\bin\Debug\netcoreapp3.1\EjemplosLambda.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\bin\Debug\netcoreapp3.1\EjemplosLambda.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\bin\Debug\netcoreapp3.1\EjemplosLambda.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\obj\Debug\netcoreapp3.1\EjemplosLambda.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\obj\Debug\netcoreapp3.1\EjemplosLambda.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\obj\Debug\netcoreapp3.1\EjemplosLambda.genruntimeconfig.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\9-LINQ\EjemplosLambda\EjemplosLambda\obj\Debug\netcoreapp3.1\EjemplosLambda.csprojAssemblyReference.cache
