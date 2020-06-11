@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\bin\Debug\netcoreapp3.1\ObtenerTask.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\bin\Debug\netcoreapp3.1\ObtenerTask.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\bin\Debug\netcoreapp3.1\ObtenerTask.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\bin\Debug\netcoreapp3.1\ObtenerTask.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\bin\Debug\netcoreapp3.1\ObtenerTask.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\bin\Debug\netcoreapp3.1\ObtenerTask.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\obj\Debug\netcoreapp3.1\ObtenerTask.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\obj\Debug\netcoreapp3.1\ObtenerTask.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\obj\Debug\netcoreapp3.1\ObtenerTask.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\obj\Debug\netcoreapp3.1\ObtenerTask.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\obj\Debug\netcoreapp3.1\ObtenerTask.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ObtenerTask\ObtenerTask\obj\Debug\netcoreapp3.1\ObtenerTask.genruntimeconfig.cache

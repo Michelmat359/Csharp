@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\bin\Debug\netcoreapp3.1\TrabajandoConHilos.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\bin\Debug\netcoreapp3.1\TrabajandoConHilos.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\bin\Debug\netcoreapp3.1\TrabajandoConHilos.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\bin\Debug\netcoreapp3.1\TrabajandoConHilos.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\bin\Debug\netcoreapp3.1\TrabajandoConHilos.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\bin\Debug\netcoreapp3.1\TrabajandoConHilos.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\obj\Debug\netcoreapp3.1\TrabajandoConHilos.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\obj\Debug\netcoreapp3.1\TrabajandoConHilos.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\obj\Debug\netcoreapp3.1\TrabajandoConHilos.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\obj\Debug\netcoreapp3.1\TrabajandoConHilos.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\obj\Debug\netcoreapp3.1\TrabajandoConHilos.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\obj\Debug\netcoreapp3.1\TrabajandoConHilos.genruntimeconfig.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\TrabajandoConHilos\TrabajandoConHilos\obj\Debug\netcoreapp3.1\TrabajandoConHilos.csprojAssemblyReference.cache

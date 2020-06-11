@@ -1,0 +1,7 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializacionXML\SerializacionXML\bin\Debug\SerializacionXML.exe.config
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializacionXML\SerializacionXML\bin\Debug\SerializacionXML.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializacionXML\SerializacionXML\bin\Debug\SerializacionXML.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializacionXML\SerializacionXML\obj\Debug\SerializacionXML.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializacionXML\SerializacionXML\obj\Debug\SerializacionXML.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializacionXML\SerializacionXML\obj\Debug\SerializacionXML.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializacionXML\SerializacionXML\obj\Debug\SerializacionXML.pdb

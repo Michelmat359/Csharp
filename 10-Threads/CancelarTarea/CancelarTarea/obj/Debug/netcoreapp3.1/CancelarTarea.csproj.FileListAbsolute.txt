@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\bin\Debug\netcoreapp3.1\CancelarTarea.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\bin\Debug\netcoreapp3.1\CancelarTarea.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\bin\Debug\netcoreapp3.1\CancelarTarea.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\bin\Debug\netcoreapp3.1\CancelarTarea.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\bin\Debug\netcoreapp3.1\CancelarTarea.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\bin\Debug\netcoreapp3.1\CancelarTarea.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\obj\Debug\netcoreapp3.1\CancelarTarea.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\obj\Debug\netcoreapp3.1\CancelarTarea.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\obj\Debug\netcoreapp3.1\CancelarTarea.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\obj\Debug\netcoreapp3.1\CancelarTarea.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\obj\Debug\netcoreapp3.1\CancelarTarea.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\obj\Debug\netcoreapp3.1\CancelarTarea.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\CancelarTarea\CancelarTarea\obj\Debug\netcoreapp3.1\CancelarTarea.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Reflection\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Reflection\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Reflection\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Reflection\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Reflection\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Reflection\Calculadora\obj\Debug\Calculadora.pdb

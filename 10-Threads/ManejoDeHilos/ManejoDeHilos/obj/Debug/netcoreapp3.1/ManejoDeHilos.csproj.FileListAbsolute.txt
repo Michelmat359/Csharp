@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\obj\Debug\netcoreapp3.1\ManejoDeHilos.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\obj\Debug\netcoreapp3.1\ManejoDeHilos.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\obj\Debug\netcoreapp3.1\ManejoDeHilos.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\bin\Debug\netcoreapp3.1\ManejoDeHilos.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\bin\Debug\netcoreapp3.1\ManejoDeHilos.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\bin\Debug\netcoreapp3.1\ManejoDeHilos.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\bin\Debug\netcoreapp3.1\ManejoDeHilos.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\bin\Debug\netcoreapp3.1\ManejoDeHilos.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\bin\Debug\netcoreapp3.1\ManejoDeHilos.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\obj\Debug\netcoreapp3.1\ManejoDeHilos.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\obj\Debug\netcoreapp3.1\ManejoDeHilos.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ManejoDeHilos\ManejoDeHilos\obj\Debug\netcoreapp3.1\ManejoDeHilos.genruntimeconfig.cache

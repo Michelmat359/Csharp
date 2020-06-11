@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\obj\Debug\netcoreapp3.1\SincronizacionDeThreads.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\obj\Debug\netcoreapp3.1\SincronizacionDeThreads.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\obj\Debug\netcoreapp3.1\SincronizacionDeThreads.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\bin\Debug\netcoreapp3.1\SincronizacionDeThreads.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\bin\Debug\netcoreapp3.1\SincronizacionDeThreads.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\bin\Debug\netcoreapp3.1\SincronizacionDeThreads.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\bin\Debug\netcoreapp3.1\SincronizacionDeThreads.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\bin\Debug\netcoreapp3.1\SincronizacionDeThreads.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\bin\Debug\netcoreapp3.1\SincronizacionDeThreads.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\obj\Debug\netcoreapp3.1\SincronizacionDeThreads.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\obj\Debug\netcoreapp3.1\SincronizacionDeThreads.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\SincronizacionDeThreads\SincronizacionDeThreads\obj\Debug\netcoreapp3.1\SincronizacionDeThreads.genruntimeconfig.cache

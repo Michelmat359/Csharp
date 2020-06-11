@@ -1,0 +1,7 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\ReflexionTiendas\ReflexionTiendas\bin\Debug\ReflexionTiendas.exe.config
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\ReflexionTiendas\ReflexionTiendas\bin\Debug\ReflexionTiendas.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\ReflexionTiendas\ReflexionTiendas\bin\Debug\ReflexionTiendas.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\ReflexionTiendas\ReflexionTiendas\obj\Debug\ReflexionTiendas.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\ReflexionTiendas\ReflexionTiendas\obj\Debug\ReflexionTiendas.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\ReflexionTiendas\ReflexionTiendas\obj\Debug\ReflexionTiendas.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\ReflexionTiendas\ReflexionTiendas\obj\Debug\ReflexionTiendas.pdb

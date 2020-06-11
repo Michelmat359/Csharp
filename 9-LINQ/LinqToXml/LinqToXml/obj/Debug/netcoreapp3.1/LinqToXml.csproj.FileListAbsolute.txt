@@ -1,0 +1,13 @@
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\bin\Debug\netcoreapp3.1\LinqToXml.exe
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\bin\Debug\netcoreapp3.1\LinqToXml.deps.json
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\bin\Debug\netcoreapp3.1\LinqToXml.runtimeconfig.json
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\bin\Debug\netcoreapp3.1\LinqToXml.runtimeconfig.dev.json
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\bin\Debug\netcoreapp3.1\LinqToXml.dll
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\bin\Debug\netcoreapp3.1\LinqToXml.pdb
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\obj\Debug\netcoreapp3.1\LinqToXml.csprojAssemblyReference.cache
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\obj\Debug\netcoreapp3.1\LinqToXml.AssemblyInfoInputs.cache
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\obj\Debug\netcoreapp3.1\LinqToXml.AssemblyInfo.cs
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\obj\Debug\netcoreapp3.1\LinqToXml.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\obj\Debug\netcoreapp3.1\LinqToXml.dll
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\obj\Debug\netcoreapp3.1\LinqToXml.pdb
+C:\Users\m.mateo\source\repos\LinqToXml\LinqToXml\obj\Debug\netcoreapp3.1\LinqToXml.genruntimeconfig.cache

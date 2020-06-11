@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\bin\Debug\netcoreapp3.1\Serializar.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\bin\Debug\netcoreapp3.1\Serializar.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\bin\Debug\netcoreapp3.1\Serializar.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\bin\Debug\netcoreapp3.1\Serializar.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\bin\Debug\netcoreapp3.1\Serializar.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\bin\Debug\netcoreapp3.1\Serializar.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\obj\Debug\netcoreapp3.1\Serializar.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\obj\Debug\netcoreapp3.1\Serializar.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\obj\Debug\netcoreapp3.1\Serializar.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\obj\Debug\netcoreapp3.1\Serializar.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\obj\Debug\netcoreapp3.1\Serializar.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\obj\Debug\netcoreapp3.1\Serializar.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\Serializar\Serializar\obj\Debug\netcoreapp3.1\Serializar.genruntimeconfig.cache

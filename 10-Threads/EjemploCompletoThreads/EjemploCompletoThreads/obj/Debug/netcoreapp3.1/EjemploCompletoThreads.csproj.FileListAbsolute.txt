@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\bin\Debug\netcoreapp3.1\EjemploCompletoThreads.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\bin\Debug\netcoreapp3.1\EjemploCompletoThreads.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\bin\Debug\netcoreapp3.1\EjemploCompletoThreads.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\bin\Debug\netcoreapp3.1\EjemploCompletoThreads.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\bin\Debug\netcoreapp3.1\EjemploCompletoThreads.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\bin\Debug\netcoreapp3.1\EjemploCompletoThreads.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\obj\Debug\netcoreapp3.1\EjemploCompletoThreads.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\obj\Debug\netcoreapp3.1\EjemploCompletoThreads.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\obj\Debug\netcoreapp3.1\EjemploCompletoThreads.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\obj\Debug\netcoreapp3.1\EjemploCompletoThreads.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\obj\Debug\netcoreapp3.1\EjemploCompletoThreads.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\EjemploCompletoThreads\EjemploCompletoThreads\obj\Debug\netcoreapp3.1\EjemploCompletoThreads.genruntimeconfig.cache

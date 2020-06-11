@@ -1,0 +1,12 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\netcoreapp3.1\ProgramacionParalelo.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\netcoreapp3.1\ProgramacionParalelo.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\netcoreapp3.1\ProgramacionParalelo.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\netcoreapp3.1\ProgramacionParalelo.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\netcoreapp3.1\ProgramacionParalelo.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\netcoreapp3.1\ProgramacionParalelo.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\netcoreapp3.1\ProgramacionParalelo.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\netcoreapp3.1\ProgramacionParalelo.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\netcoreapp3.1\ProgramacionParalelo.csproj.CoreCompileInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\netcoreapp3.1\ProgramacionParalelo.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\netcoreapp3.1\ProgramacionParalelo.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\10-Threads\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\netcoreapp3.1\ProgramacionParalelo.genruntimeconfig.cache

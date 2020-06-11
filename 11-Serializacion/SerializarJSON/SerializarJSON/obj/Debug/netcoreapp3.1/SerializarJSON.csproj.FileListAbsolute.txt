@@ -1,0 +1,13 @@
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\bin\Debug\netcoreapp3.1\SerializarJSON.exe
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\bin\Debug\netcoreapp3.1\SerializarJSON.deps.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\bin\Debug\netcoreapp3.1\SerializarJSON.runtimeconfig.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\bin\Debug\netcoreapp3.1\SerializarJSON.runtimeconfig.dev.json
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\bin\Debug\netcoreapp3.1\SerializarJSON.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\bin\Debug\netcoreapp3.1\SerializarJSON.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\obj\Debug\netcoreapp3.1\SerializarJSON.AssemblyInfoInputs.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\obj\Debug\netcoreapp3.1\SerializarJSON.AssemblyInfo.cs
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\obj\Debug\netcoreapp3.1\SerializarJSON.dll
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\obj\Debug\netcoreapp3.1\SerializarJSON.pdb
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\obj\Debug\netcoreapp3.1\SerializarJSON.genruntimeconfig.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\obj\Debug\netcoreapp3.1\SerializarJSON.csprojAssemblyReference.cache
+C:\Users\m.mateo\Desktop\Formacion\CSharp\11-Serializacion\SerializarJSON\SerializarJSON\obj\Debug\netcoreapp3.1\SerializarJSON.csproj.CoreCompileInputs.cache
